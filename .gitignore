@@ -1,0 +1,32 @@
+# Virtual Environment
+smartscreener-main/backend/venv/
+smartscreener-main/backend/db.sqlite
+smartscreener-main/backend/backend.log
+smartscreener-main/backend/__pycache__/
+smartscreener-main/backend/app/__pycache__/
+smartscreener-main/backend/app/models/__pycache__/
+smartscreener-main/backend/app/services/__pycache__/
+__pycache__/
+
+# Frontend Node/Build
+smartscreener-main/frontend/node_modules/
+smartscreener-main/frontend/.next/
+smartscreener-main/frontend/out/
+smartscreener-main/frontend/build/
+smartscreener-main/frontend/.env.local
+smartscreener-main/frontend/.env.development.local
+smartscreener-main/frontend/.env.test.local
+smartscreener-main/frontend/.env.production.local
+node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.env
